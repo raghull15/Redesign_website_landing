@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# REDESIGN A WEBSITE LANDING PAGE
+**COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**NAME**: R.DHANUSH KUMAR
 
-## Available Scripts
+**INTERN ID**: CT04WUZ
 
-In the project directory, you can run:
+**DOMAIN**: UI/UX DESIGN
 
-### `npm start`
+**BATCH DURATION**: February 25th 2025 to March 25th 2025.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**MENTOR NAME**: Neela Santhosh Kumar
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# DESCRIPTION :
 
-### `npm test`
+A Netflix clone is essentially a platform that mimics the core features and design of Netflix, the popular streaming service, but can be customized or tailored to cater to a specific niche or market. The goal of creating a Netflix clone is to offer users an engaging, intuitive, and seamless streaming experience that allows them to watch movies, TV shows, documentaries, and more from the comfort of their own home. The main feature of such a platform is the ability to stream high-quality video content on-demand, with a variety of genres, including action, comedy, drama, romance, and many others. Users can create personalized accounts, curate their watchlists, and receive tailored recommendations based on their viewing habits, making the platform more relevant and user-focused.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The user interface (UI) of a Netflix clone is designed to be sleek, modern, and easy to navigate. Upon logging in, users are welcomed with a dashboard that highlights trending or recommended content. The home screen is often categorized into different sections such as “Trending Now,” “Top Picks,” “Continue Watching,” and “New Releases,” making it easier for users to discover new content. One of the most essential aspects of a Netflix clone is its ability to offer seamless streaming experiences, ensuring minimal buffering and high-definition quality, even with limited internet speed.
 
-### `npm run build`
+# OUTPUT :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Image](https://github.com/user-attachments/assets/e88bc504-338d-4169-b08b-58b7397b9558)
