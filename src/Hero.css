@@ -1,0 +1,47 @@
+.hero {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .hero-content {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .hero h1 {
+    font-size: 40px;
+  }
+  
+  .buttons {
+    margin-top: 15px;
+    
+  }
+  
+  .play-btn, .info-btn {
+    padding: 10px 20px;
+    margin: 5px;
+   
+ 
+    border: none;
+    cursor: pointer;
+  }
+  
+  .play-btn {
+    background-color: red;
+    color: white;
+    width:110px;
+    border-radius: 5px;
+    
+  }
+  
+  .info-btn {
+    background-color: gray;
+    color: white;
+    width:110px;
+    border-radius: 5px;
+  }
+  

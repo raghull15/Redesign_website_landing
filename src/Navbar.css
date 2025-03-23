@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 50px;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    width: 95%;
+  
+  }
+  
+  .logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: red;
+  }
+  
+  .nav-icons {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .icon {
+    font-size: 20px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,25 @@
+.movie-list {
+    padding: 20px 50px;
+  }
+  
+  .movie-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .movie-row {
+    display: flex;
+    gap: 15px;
+    overflow-x: scroll;
+  }
+  
+  .movie-thumbnail {
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .movie-thumbnail:hover {
+    transform: scale(1.1);
+  }
+  
