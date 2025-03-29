@@ -1,15 +1,4 @@
 # REDESIGN A WEBSITE LANDING PAGE
-**COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
-
-**NAME**: R.DHANUSH KUMAR
-
-**INTERN ID**: CT04WUZ
-
-**DOMAIN**: UI/UX DESIGN
-
-**BATCH DURATION**: February 25th 2025 to March 25th 2025.
-
-**MENTOR NAME**: Neela Santhosh Kumar
 
 # DESCRIPTION :
 
@@ -17,6 +6,5 @@ A Netflix clone is essentially a platform that mimics the core features and desi
 
 The user interface (UI) of a Netflix clone is designed to be sleek, modern, and easy to navigate. Upon logging in, users are welcomed with a dashboard that highlights trending or recommended content. The home screen is often categorized into different sections such as “Trending Now,” “Top Picks,” “Continue Watching,” and “New Releases,” making it easier for users to discover new content. One of the most essential aspects of a Netflix clone is its ability to offer seamless streaming experiences, ensuring minimal buffering and high-definition quality, even with limited internet speed.
 
-# OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/e88bc504-338d-4169-b08b-58b7397b9558)
